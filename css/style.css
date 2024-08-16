@@ -1,4 +1,12 @@
 
+
 h1{
     text-align: center;
+    font-size: "Playfair Display", serif;
+    font-weight: bold;
+}
+
+p{
+    font-size: "Poppins", sans-serif;
+    font-weight: normal;
 }
