@@ -1,12 +1,23 @@
+h1,h2,h3,h4,h5,h6{
 
-
+}
 h1{
-    text-align: center;
-    font-size: "Playfair Display", serif;
+    font-family: "Playfair Display", serif;
     font-weight: bold;
 }
 
 p{
     font-size: "Poppins", sans-serif;
     font-weight: normal;
+}
+
+.hero{
+    background:#eceef7e8;
+    text-align: center;
+}
+
+.hero p{
+    font-family: "Playfair Display", serif;
+    font-size: 36px;
+
 }
